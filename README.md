@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wjbg
+- 👋 Hi, I’m Wouter Grouve
 - :classical_building: I work at the [University of Twente](https://www.utwente.nl)
 - 👀 I’m interested in thermoplastic composites processing technologies
 - :man_technologist: I’m working on induction welding, forming, fiber placement, consolidation, etc.
