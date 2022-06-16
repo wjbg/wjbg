@@ -3,7 +3,7 @@
 - 👀 I’m interested in thermoplastic composites processing technologies
 - :man_technologist: I’m working on induction welding, forming, fiber placement, consolidation, etc.
 - 💞️ I’m looking to collaborate on any of the above
-- 📫 You can reach me via my employer's [Peoples page](https://people.utwente.nl/w.j.b.grouve?tab=research)
+- 📫 You can reach me via my employer's [peoples page](https://people.utwente.nl/w.j.b.grouve?tab=research)
 
 <!---
 wjbg/wjbg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
